@@ -10,3 +10,5 @@
 
 7. For admin side access (localhost:3001/admin/admin-register) or (localhost:3001/admin/admin-login)
 
+8. Curently no Authentictaion needed for localhost:3001admin/dashboard for testing purpose 
+
