@@ -8,5 +8,5 @@
 5. npm start ( as server is running on port 3000. It will ask to change the port for react, Press Y) 
 6. Client app will open automatically 
 
-7. For admin side access (localhost:3000/admin/admin-register) or (localhost:3000/admin/admin-login)
+7. For admin side access (localhost:3001/admin/admin-register) or (localhost:3001/admin/admin-login)
 
