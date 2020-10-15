@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/moniter_client/static/css/main.bc1e5782.chunk.css",
-    "main.js": "/moniter_client/static/js/main.ff4960b1.chunk.js",
-    "main.js.map": "/moniter_client/static/js/main.ff4960b1.chunk.js.map",
-    "runtime-main.js": "/moniter_client/static/js/runtime-main.f453972d.js",
-    "runtime-main.js.map": "/moniter_client/static/js/runtime-main.f453972d.js.map",
+    "main.js": "/moniter_client/static/js/main.cf3acb11.chunk.js",
+    "main.js.map": "/moniter_client/static/js/main.cf3acb11.chunk.js.map",
+    "runtime-main.js": "/moniter_client/static/js/runtime-main.6f4b3184.js",
+    "runtime-main.js.map": "/moniter_client/static/js/runtime-main.6f4b3184.js.map",
     "static/css/2.2d5b2920.chunk.css": "/moniter_client/static/css/2.2d5b2920.chunk.css",
-    "static/js/2.88fbec9c.chunk.js": "/moniter_client/static/js/2.88fbec9c.chunk.js",
-    "static/js/2.88fbec9c.chunk.js.map": "/moniter_client/static/js/2.88fbec9c.chunk.js.map",
+    "static/js/2.fb8e4dab.chunk.js": "/moniter_client/static/js/2.fb8e4dab.chunk.js",
+    "static/js/2.fb8e4dab.chunk.js.map": "/moniter_client/static/js/2.fb8e4dab.chunk.js.map",
     "static/css/3.1c082f95.chunk.css": "/moniter_client/static/css/3.1c082f95.chunk.css",
     "static/js/3.6c603086.chunk.js": "/moniter_client/static/js/3.6c603086.chunk.js",
     "static/js/3.6c603086.chunk.js.map": "/moniter_client/static/js/3.6c603086.chunk.js.map",
@@ -21,8 +21,8 @@
     "static/js/7.9bbc77ed.chunk.js.map": "/moniter_client/static/js/7.9bbc77ed.chunk.js.map",
     "static/js/8.6fa22755.chunk.js": "/moniter_client/static/js/8.6fa22755.chunk.js",
     "static/js/8.6fa22755.chunk.js.map": "/moniter_client/static/js/8.6fa22755.chunk.js.map",
-    "static/js/9.87dccb02.chunk.js": "/moniter_client/static/js/9.87dccb02.chunk.js",
-    "static/js/9.87dccb02.chunk.js.map": "/moniter_client/static/js/9.87dccb02.chunk.js.map",
+    "static/js/9.ca060d5d.chunk.js": "/moniter_client/static/js/9.ca060d5d.chunk.js",
+    "static/js/9.ca060d5d.chunk.js.map": "/moniter_client/static/js/9.ca060d5d.chunk.js.map",
     "static/js/10.c4ad4576.chunk.js": "/moniter_client/static/js/10.c4ad4576.chunk.js",
     "static/js/10.c4ad4576.chunk.js.map": "/moniter_client/static/js/10.c4ad4576.chunk.js.map",
     "static/js/11.3848df0b.chunk.js": "/moniter_client/static/js/11.3848df0b.chunk.js",
@@ -36,18 +36,18 @@
     "static/js/15.849e4044.chunk.js": "/moniter_client/static/js/15.849e4044.chunk.js",
     "static/js/15.849e4044.chunk.js.map": "/moniter_client/static/js/15.849e4044.chunk.js.map",
     "index.html": "/moniter_client/index.html",
-    "precache-manifest.bfafb38cfff2cc73afde5091434a110d.js": "/moniter_client/precache-manifest.bfafb38cfff2cc73afde5091434a110d.js",
+    "precache-manifest.2eaf4c6d41486f65aca819d0bab227b4.js": "/moniter_client/precache-manifest.2eaf4c6d41486f65aca819d0bab227b4.js",
     "service-worker.js": "/moniter_client/service-worker.js",
     "static/css/2.2d5b2920.chunk.css.map": "/moniter_client/static/css/2.2d5b2920.chunk.css.map",
     "static/css/3.1c082f95.chunk.css.map": "/moniter_client/static/css/3.1c082f95.chunk.css.map",
     "static/css/main.bc1e5782.chunk.css.map": "/moniter_client/static/css/main.bc1e5782.chunk.css.map",
-    "static/js/2.88fbec9c.chunk.js.LICENSE.txt": "/moniter_client/static/js/2.88fbec9c.chunk.js.LICENSE.txt"
+    "static/js/2.fb8e4dab.chunk.js.LICENSE.txt": "/moniter_client/static/js/2.fb8e4dab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f453972d.js",
+    "static/js/runtime-main.6f4b3184.js",
     "static/css/2.2d5b2920.chunk.css",
-    "static/js/2.88fbec9c.chunk.js",
+    "static/js/2.fb8e4dab.chunk.js",
     "static/css/main.bc1e5782.chunk.css",
-    "static/js/main.ff4960b1.chunk.js"
+    "static/js/main.cf3acb11.chunk.js"
   ]
 }
